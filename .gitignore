@@ -6,3 +6,8 @@
 
 *.class
 war/WEB-INF/classes/
+
+# ktrwjr is not exists at maven
+*.jar
+!ktrwjr.jar
+
