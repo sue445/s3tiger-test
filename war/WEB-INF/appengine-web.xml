@@ -11,4 +11,5 @@
     <property name="java.util.logging.config.file" value="WEB-INF/classes/logging.properties"/>
     <property name="slim3.cipherGlobalKey" value="1234567890123456" />
   </system-properties>
+  <threadsafe>true</threadsafe>
 </appengine-web-app>
